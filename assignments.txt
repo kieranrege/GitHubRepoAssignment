@@ -1,0 +1,41 @@
+cd Desktop/
+mkdir DojoAssignments
+cd DojoAssignments
+mkdir WebFundamentals Python MEAN Ruby iOS netCore
+cd WebFundamentals
+touch about.txt
+cd ..
+cd Python
+touch about.txt
+cd ..
+cd MEAN
+touch about.txt
+cd ..
+cd Ruby
+touch about.txt
+cd ..
+cd iOS
+touch about.txt
+cd ..
+cd netCore
+touch about.txt
+cd ..
+cd WebFundamentals
+mkdir Git HTML CSS JavaScript
+cd Git
+touch about.txt
+cd ..
+cd HTML
+touch about.txt
+cd ..
+cd CSS
+touch about.txt
+cd ..
+cd JavaScript
+touch about.txt
+cd ..
+cd HTML
+touch indentation.html
+cd ..
+cd ..
+touch assignments.txt //this file
